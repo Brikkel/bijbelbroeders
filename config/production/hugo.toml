@@ -1,2 +1,3 @@
 # Overrides for production environment
-baseurl = "https://brikkel.github.io/bijbelbroeders/"
+baseurl = "https://blog.rikvanbrakel.nl/bijbelbroeders/"
+#baseurl = "https://brikkel.github.io/bijbelbroeders/"
